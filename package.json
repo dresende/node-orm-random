@@ -1,0 +1,20 @@
+{
+  "author"      : "Diogo Resende <dresende@thinkdigital.pt>",
+  "name"        : "orm-random",
+  "description" : "ORM Random instance get/find",
+  "keywords"    : [
+    "orm",
+    "random"
+  ],
+  "version"     : "0.0.1",
+  "license"     : "MIT",
+  "repository"  : "http://github.com/dresende/node-orm-random.git",
+  "main"        : "./lib/plugin",
+  "engines"     : {
+    "node"           : "*"
+  },
+  "analyse"     : false,
+  "dependencies": {
+    "orm"      : ">2.0.9"
+  }
+}
